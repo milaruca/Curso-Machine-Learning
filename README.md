@@ -1,4 +1,4 @@
-# Curso-Machine-Learning
+# Machine-Learning-Course
 ML Luis Sastre
 
 In this folder I have included 2 sets of exercises:
